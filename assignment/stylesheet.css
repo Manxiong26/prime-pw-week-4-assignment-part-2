@@ -7,3 +7,9 @@ h1 {
   color: midnightblue;
   text-align: center;
 }
+h2, h3 {
+  color: midnightblue;
+  text-align: center;
+  border: 5px dashed #1E90FF;
+  background-color: #006994;
+}
