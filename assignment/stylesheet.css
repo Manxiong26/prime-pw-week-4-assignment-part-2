@@ -1,14 +1,14 @@
 body {
-  background-color: lightblue;
+  background-color: #add8e6;
 }
 h1 {
   background-color: #006994;
   font-style: oblique;
-  color: midnightblue;
+  color: #191970;
   text-align: center;
 }
 h2, h3 {
-  color: midnightblue;
+  color: #191970;
   text-align: center;
   border: 5px dashed #1E90FF;
   background-color: #006994;
@@ -17,5 +17,5 @@ img {
   border: 20px dashed #1E90FF;
 }
 p {
-  color: midnightblue;
+  color: #191970;
 }
